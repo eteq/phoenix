@@ -1,2 +1,5 @@
 *.ecsv
 fullgrid
+*.pt
+*.pth
+.ipynb_checkpoints
